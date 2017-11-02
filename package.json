@@ -1,0 +1,8 @@
+{
+  "name": "proportional-height-box",
+  "version": "3.0-preview",
+  "main": "index.js",
+  "repository": "git@github.com:diddledan/proportional-height-box.git",
+  "author": "Daniel Llewellyn <daniel@bowlhat.net>",
+  "license": "MIT"
+}
